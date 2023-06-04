@@ -1,0 +1,183 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Comedy"
+    },
+    {
+      "id": 3,
+      "name": "Horror"
+    },
+    {
+      "id": 4,
+      "name": "Romance"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "TOP GUN - MAVERICK",
+      "description": "After more than 30 years of service as one of the Navy's best aviators, Pete Maverick Mitchell will have to train the best pilots for a special assignment. Now, Maverick must face the ghosts of his past and his deepest fears, in a mission that demands the ultimate sacrifice from those chosen to take part.",
+      "categoryId": 1,
+      "image": "https://m.media-amazon.com/images/M/MV5BOWQwOTA1ZDQtNzk3Yi00ZmVmLWFiZGYtNjdjNThiYjJhNzRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=giXco2jaZ_4"
+    },
+    {
+      "id": 2,
+      "title": "DAY SHIFT",
+      "description": "A blue-collar, hard-working father who just wants to provide a good life for his smart 8-year-old daughter. His regular job cleaning pools in the San Fernando Valley is a cover for his real source of income: hunting and killing vampires.",
+      "categoryId": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/58/Day_Shift_%28film%29.jpg",
+      "trailer": "https://www.youtube.com/watch?v=GN_IwBptKi4"
+    },
+    {
+      "id": 3,
+      "title": "DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS",
+      "description": "Doctor Strange, by means of a forbidden magic, manages to open the doors of multiple universes, bringing to the stage several versions of himself that present a great threat to humanity, which Strange, Wangu and Wanda themselves cannot cope with.",
+      "categoryId": 1,
+      "image": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+      "trailer": "https://youtu.be/aWzlQ2N6qqg "
+    },
+    {
+      "id": 4,
+      "title": "13 HOURS",
+      "description": "In September 2012, Islamic militants attack the American consulate in Libya, where Ambassador Stevens is killed. From this moment, soldiers and personnel will fight for 13 long hours to escape death. Based on true story.",
+      "categoryId": 1,
+      "image": "https://www.themoviedb.org/t/p/w500/4qnEeVPM8Yn5dIVC4k4yyjrUXeR.jpg",
+      "trailer": "https://youtu.be/5MBjAN7jqsQ"
+    },
+    {
+      "id": 5,
+      "title": "MORBIUS",
+      "description": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism.",
+      "categoryId": 1,
+      "image": "https://m.media-amazon.com/images/M/MV5BOGM1NDU0ZGYtOWRmOC00NjYxLTk2ZTMtZTQ1MTUwNjhhYmNhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+      "trailer": "https://youtu.be/oZ6iiRrz1SY "
+    },
+    {
+      "id": 6,
+      "title": "BULLET TRAIN",
+      "description": "Five assassins on a speeding train discover that their missions have something in common.",
+      "categoryId": 2,
+      "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "trailer": "https://youtu.be/0IOsk2Vlc4o "
+    },
+    {
+      "id": 7,
+      "title": "Holidays on Mars (2020) A.K.A. In vacanza su Marte",
+      "description": "A scoundrel's mission to save his family and remarry on Mars is thwarted when a black hole disaster turns his son into an old man.",
+      "categoryId": 2,
+      "image": "https://occ-0-2794-2218.1.nflxso.net/dnm/api/v6/Da_vleYcahiCE7JMYt8LJRyoenc/AAAABdIP4c1jc0dDuuKqMn4TCjgpfLrDeLazX-phV1XBJYZG-5esSMVdjBmrP23obu1RGd8-2NLrcpvgArMgBmrxshxaBDk1.jpg",
+      "trailer": "https://youtu.be/CBP-vgAngg4 "
+    },
+    {
+      "id": 8,
+      "title": "THE VALET",
+      "description": "A movie star asks a valet parking attendant to pose as her boyfriend to hide an affair with a married man.",
+      "categoryId": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f4/The_Valet_%282022_film%29.jpg",
+      "trailer": " https://youtu.be/1iyz4d8WoqQ"
+    },
+    {
+      "id": 9,
+      "title": "THE LOST CITY",
+      "description": "A romance writer on a book tour with her cover model becomes involved in a kidnapping attempt that sets the two on a wild jungle adventure.",
+      "categoryId": 2,
+      "image": "https://m.media-amazon.com/images/I/71hd4ec3lBL._AC_SL1200_.jpg",
+      "trailer": " https://youtu.be/nfKO9rYDmE8"
+    },
+    {
+      "id": 10,
+      "title": "THE ADAM PROJECT",
+      "description": "A time-traveling pilot teams up with his younger self and his late father to come to terms with his past while saving the future.",
+      "categoryId": 2,
+      "image": "https://m.media-amazon.com/images/M/MV5BOWM0YWMwMDQtMjE5NS00ZTIwLWE1NWEtODViMWZjMWI2OTU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+      "trailer": "https://youtu.be/IE8HIsIrq4o "
+    },
+    {
+      "id": 11,
+      "title": "PREY",
+      "description": "The Predator's origin story in the world of the Comanche Nation 300 years ago. Naru, a skilled female warrior, fights to defend her tribe against one of the first highly evolved Predators to land on Earth",
+      "categoryId": 3,
+      "image": "https://resizing.flixster.com/pbJEPbmzbJO7G6_fE7Sij-2rMuY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYzMjg3YWE5LTMxOGEtNDYyYi1hY2I2LTI1MGZhOGU1MzBkNi5qcGc=",
+      "trailer": "https://youtu.be/wZ7LytagKlc "
+    },
+    {
+      "id": 12,
+      "title": "HUNTING SOULS",
+      "description": "Angi and Mike are two American parents struggling to care for their young daughter. After the doctors could not find the girl's problem, her parents discover that a demon is following them.",
+      "categoryId": 3,
+      "image": "https://m.media-amazon.com/images/M/MV5BMDUxZmY5NjctNzU2ZS00Nzc4LWE0NTMtM2UyZTQwODhhM2FlXkEyXkFqcGdeQXVyMTA2ODg2Mjcx._V1_FMjpg_UX1000_.jpg",
+      "trailer": "https://youtu.be/NK-xrOsFQYM "
+    },
+    {
+      "id": 13,
+      "title": "THE TWIN",
+      "description": "A mother who must face the unbearable truth about her surviving twin son.",
+      "categoryId": 3,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/ab/The_Twin_2022_Film_Poster.jpg",
+      "trailer": "https://youtu.be/OIyU2i_xAMY "
+    },
+    {
+      "id": 14,
+      "title": "THE HOST",
+      "description": "This looks like a classic B-movie with a killer monster, but as the minutes pass, the viewer realizes that he is witnessing a completely different show than he expected and does not leave the screen. Years ago, a sea monster is mistakenly created by a group of scientists. Now this mutant creature, intends to enjoy a beautiful sunny day on the Han River in Seoul, but suddenly starts attacking people and after planting many victims, takes along with a girl named Hyun-seo. Despite the American military intervention, which ends up doing more harm than good, who will solve this disaster to save the world? Watch the movie for more!",
+      "categoryId": 3,
+      "image": "https://flxt.tmsimg.com/assets/p163613_p_v8_ad.jpg",
+      "trailer": " https://youtu.be/xrLY0wO06l4"
+    },
+    {
+      "id": 15,
+      "title": "THE EXORCISM OF GOD",
+      "description": "An American priest working in Mexico is possessed during an exorcism and ends up committing a horrific act. Eighteen years later, the consequences of his sin come back to haunt him, setting off the greatest battle within him.",
+      "categoryId": 3,
+      "image": "https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/the-exorcism-of-god-2022/large_exorcism-of-god-movie-poster.jpeg",
+      "trailer": "https://youtu.be/Soxe-QkMd1A "
+    },
+    {
+      "id": 16,
+      "title": "PERSUASION",
+      "description": "Eight years after Anna Eliot was persuaded not to marry a dashing man of humble origins, they meet again. Will he take his second chance at true love?",
+      "categoryId": 4,
+      "image": "https://m.media-amazon.com/images/M/MV5BZDg3MzdiYjAtZWQ0MC00MDY4LWE5ZWEtNjliNTE3ZDZjNTU3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+      "trailer": "https://youtu.be/Fz7HmgPJQak "
+    },
+    {
+      "id": 17,
+      "title": "THE BACK-UP PLAN",
+      "description": "A romantic comedy about a woman who gives birth to twins through artificial insemination and finds her love on the same day.",
+      "categoryId": 4,
+      "image": "https://images.moviesanywhere.com/615e584558828fef602bec37f6485964/2cc1cd54-768c-4b9a-8e63-e5c86e496eeb.jpg",
+      "trailer": "https://youtu.be/cut4IW0oz1w "
+    },
+    {
+      "id": 18,
+      "title": "FIRST LOVE",
+      "description": "The story of a young boy who faces a difficult reality in adulthood",
+      "categoryId": 4,
+      "image": "https://m.media-amazon.com/images/M/MV5BNWQyMzc2MDYtNWJkMS00MWE5LWE0YzctYTMzNGQwNWVlZGNlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg",
+      "trailer": " https://youtu.be/IDF_QdK5iCA"
+    },
+    {
+      "id": 19,
+      "title": "365 DAYS: THIS DAY",
+      "description": "Laura and Massimo are back and stronger than ever. But Massimo's family ties and a mysterious man seeking Laura's heart complicate the lovers' lives.",
+      "categoryId": 4,
+      "image": "https://cdn.realsport101.com/images/ncavvykf/epicstream/87e7fb233b1da3f5a448c5dc9fee6518d07afb66-1080x1350.jpg?w=328&h=410&auto=format",
+      "trailer": "https://youtu.be/pyM3z73oMAk "
+    },
+    {
+      "id": 20,
+      "title": "TROY",
+      "description": "Based on the Iliad by Homer, the film follows the attack on Troy by a united Greece and decides the fates of the people involved.",
+      "categoryId": 4,
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_.jpg",
+      "trailer": " https://youtu.be/znTLzRJimeY"
+    }
+  ],
+  "watchlist": []
+}
